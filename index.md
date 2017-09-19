@@ -1,8 +1,10 @@
+ # NDP
+ 
  So I hear you want a datacenter network?
  
   a network thats fast huh?
  
- _and_ a network with no added latency?
+ **and** with no added latency?
  
  hmmmmm
 
